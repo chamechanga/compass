@@ -13,6 +13,7 @@
                 android:name=".Main3Activity"
                 android:label="@string/title_activity_main3"
                 android:theme="@style/AppTheme.NoActionBar">
+            //can't sync
         </activity>
         <activity android:name=".Main2Activity">
         </activity>
